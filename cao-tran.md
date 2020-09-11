@@ -1,7 +1,7 @@
 
-# Tac dung bo than
+# Tác dụng của cao trăn
 
-Tac dung chinh cua [cao tran]( chinh la tac dung chua dau nhuc xuong khop la tac dung bo than rat manh
+Tac dung chinh cua [cao tran](https://caycohoaqua.webflow.io/) chinh la tac dung chua dau nhuc xuong khop la tac dung bo than rat manh
 Khi bi dau nhuc xuong khop dac biet la dau lung thi nen dung loai cao nay
 Khong nhung cao tran co tac dung ve xuong khop dau ma no con co tac dung tot ve than dac biet nhung nguoi than yeu thi nen dung
 Tac dung bo duong
